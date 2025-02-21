@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+// import About from './components/About/About'
+// import Contact from './components/Contact/Contact'
+// import Home from './components/Home/Home'
 // import './App.css'
 // import Cards from './components/cards'
 // import Bg_color from './components/bg-color'
@@ -20,10 +23,16 @@ function App() {
       {/* <PawsdGenerator/> */}
       {/* <Currency_app/> */}
       {/* <useCurrencyInfo/> */}
-      {/* <InputBox/> */}
+      
+
+
+
+
+
     </>
   )
 }
-
-export default App
-
+export default App;
+// 
+//     </div>
+  
